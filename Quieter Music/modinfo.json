@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "quietermusic",
+  "name": "Quieter Music",
+  "authors": ["RogueRaidenTV"],
+  "description": "Volume balances for all music tracks.",
+  "website": "https://mods.vintagestory.at/quietermusic",
+  "side": "Client",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "*"
+  }
+}
