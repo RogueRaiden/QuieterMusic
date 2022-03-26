@@ -1,2 +1,2 @@
-# VSModTemplate
- Vintage Story Mod Template
+# Quieter Music
+ Volume balances for all music tracks.
